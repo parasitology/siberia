@@ -1,4 +1,4 @@
-## Welcome to Siberia Pages
+## Приветствуем на страницах Лаборатории паразитологии!
 
 You can use the [editor on GitHub](https://github.com/parasitology/siberia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
